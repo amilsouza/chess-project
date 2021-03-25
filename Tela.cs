@@ -1,5 +1,6 @@
 ﻿using System;
 using tabuleiro;
+using xadrex;
 namespace xadrez_console {
     class Tela {
         public static void imprimirTabuleiro(Tabuleiro tab) {
